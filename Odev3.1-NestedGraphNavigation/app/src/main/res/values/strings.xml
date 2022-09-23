@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NestedGraphNavigation</string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+
+    <string name="welcome">Welcome %s</string>
+
+    <string name="empty_username">Username required</string>
+    <string name="empty_password">Password required</string>
+</resources>
