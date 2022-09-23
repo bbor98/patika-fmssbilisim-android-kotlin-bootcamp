@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MarsRealEstate</string>
+
+    <string name="onboarding_message">Let\'s Explore the\n Solar System\n with Explorer</string>
+    <string name="let_s_go">Let\'s Go</string>
+
+    <string name="retry">Retry</string>
+
+    <string name="mars_estate">Mars Estate</string>
+    <string name="for_sale">For sale</string>
+    <string name="for_rent">For rent</string>
+
+    <string name="buy_now">Buy Now</string>
+    <string name="rent_now">Rent Now</string>
+    <string name="price">$%s</string>
+</resources>
