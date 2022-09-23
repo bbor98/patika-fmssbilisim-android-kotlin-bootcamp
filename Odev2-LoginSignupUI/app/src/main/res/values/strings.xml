@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Odev2FMSS</string>
+
+    <string name="get_started">Let\'s Get Started</string>
+    <string name="grow_together">Grow Together</string>
+    <string name="join_now">JOIN NOW</string>
+
+    <string name="welcome_back">Welcome Back</string>
+    <string name="enter_username_password"><![CDATA[Enter Your Username & Password]]></string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="forgotten_password">Forgotten Password?</string>
+    <string name="create_new_account">Or Create a New Account</string>
+
+    <string name="create_account">Create\nAccount :)</string>
+    <string name="enter_email_id">Enter Email Id</string>
+    <string name="create_username">Create Username</string>
+    <string name="create_password">Create Password</string>
+    <string name="sign_up">Sign Up</string>
+
+    <string name="empty_email">Email required</string>
+    <string name="empty_username">Username required</string>
+    <string name="empty_password">Password required</string>
+
+    <string name="invalid_email">Enter a valid email address</string>
+    <string name="invalid_username">Username can\'t contain any space</string>
+    <string name="invalid_password">Password must be at least 6 characters long</string>
+
+    <string name="home_username">Hi, %s</string>
+    <string name="home_email">Your email address is %s</string>
+    <string name="home_password">Your password is %s</string>
+
+    <string name="incorrect_username">Username is incorrect</string>
+    <string name="incorrect_password">Password is incorrect</string>
+
+    <string name="sign_up_successful">Sign up successful. Please login</string>
+    <string name="login_successful">Login successful</string>
+</resources>
